@@ -6,17 +6,17 @@ This include all the projects related to computer vision
 #### 3. numpy library - for creating blank screen for masking, black background for image overlay, dot product for image transformation, etc
 
   # virtual image transformation.py
-    In this there is fingure tip which is used for selecting different option on screen which is created using OPENCV.
-    You drag your fingure to option which is present on the top side of the screen
-    OPTION ARE LIKE - {ZOOM, ROTATION, CROPPING, REFLECTION AND TRANSLATION}
+    1. In this there is fingure tip which is used for selecting different option on screen which is created using OPENCV.
+    2. You drag your fingure to option which is present on the top side of the screen
+    3. OPTION ARE LIKE - {ZOOM, ROTATION, CROPPING, REFLECTION AND TRANSLATION}
  
   # webcamHANDcircleMASKfromBACKGROUND.py
-    In this you can there is a blank screen and see only the selected part of the webcam and rest will be black.
-    The part you want to see of webcam is in the shape of circle.
-    You can increase or decrease the size of circle and you can postion of the cirlce along with its size with help of your fingures.
+    1. In this you can there is a blank screen and see only the selected part of the webcam and rest will be black.
+    2. The part you want to see of webcam is in the shape of circle.
+    3. You can increase or decrease the size of circle and you can postion of the cirlce along with its size with help of your fingures.
     
   # webcamRegionScreenshot.py
-    In this you can take screenshot from a video with the help your fingures and save it to your desktop.
-    IMAGE CROPPING method is used to take the screenshot.
-    Here you adjust you cropping area and location of the area you want to  and it is in the shape of retangle. 
+    1. In this you can take screenshot from a video with the help your fingures and save it to your desktop.
+    2. IMAGE CROPPING method is used to take the screenshot.
+    3. Here you adjust you cropping area and location of the area you want to  and it is in the shape of retangle. 
       Then the cropped area is saved on local computer.
