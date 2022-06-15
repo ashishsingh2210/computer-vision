@@ -1,9 +1,9 @@
 # computer-vision
 
 This include all the projects related to computer vision
-# 1. MEDIAPIPE library - for hand gesture which will be used for performing different task in OPENCV
-# 2. OPENCV library - for using webcam, image trasnsformation, image masking, etc
-# 3. numpy library - for creating blank screen for masking, black background for image overlay, dot product for image transformation, etc
+#### 1. MEDIAPIPE library - for hand gesture which will be used for performing different task in OPENCV
+#### 2. OPENCV library - for using webcam, image trasnsformation, image masking, etc
+#### 3. numpy library - for creating blank screen for masking, black background for image overlay, dot product for image transformation, etc
 
   # virtual image transformation.py
     In this there is fingure tip which is used for selecting different option on screen which is created using OPENCV.
